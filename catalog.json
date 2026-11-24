@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "Truck/Grille guard - Bent_01.jpg",
+    "truckTrailer": "Truck",
+    "carPart": "Grille guard",
+    "condition": "Bent",
+    "isHealthy": false,
+    "camera": "at_front_02",
+    "frame": 0,
+    "inspectionId": "ccc058fd-448a-4d8d-918e-e39a5d1f7830",
+    "bbox": {
+      "left": 0.459,
+      "top": 0.774,
+      "width": 0.079,
+      "height": 0.034
+    },
+    "addedAt": "2026-11-24T00:42:22Z"
+  }
+]
