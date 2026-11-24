@@ -66,5 +66,80 @@
       "height": 0.076
     },
     "addedAt": "2026-11-24T01:30:32Z"
+  },
+  {
+    "path": "Truck/Mudflap - Drive - Trailer - Healthy_01.jpg",
+    "truckTrailer": "Truck",
+    "carPart": "Mudflap  - Drive  / Trailer",
+    "condition": "Healthy",
+    "isHealthy": true,
+    "severity": "SEV - 1",
+    "area": "Tires",
+    "category": "D.O.T Accessories",
+    "inspectionId": "075cef79-6d4e-49cd-bac0-eb5ae05c9dfe",
+    "camera": "at_cam_01",
+    "frame": 73,
+    "bbox": null
+  },
+  {
+    "path": "Truck/Mudflap - Drive - Trailer - Healthy_02.jpg",
+    "truckTrailer": "Truck",
+    "carPart": "Mudflap  - Drive  / Trailer",
+    "condition": "Healthy",
+    "isHealthy": true,
+    "severity": "SEV - 1",
+    "area": "Tires",
+    "category": "D.O.T Accessories",
+    "inspectionId": "c2c40d03-d890-4856-8450-b9ec103dc482",
+    "camera": "at_cam_01",
+    "frame": 62,
+    "bbox": null
+  },
+  {
+    "path": "Truck/Mudflap - Drive - Trailer - Healthy_03.jpg",
+    "truckTrailer": "Truck",
+    "carPart": "Mudflap  - Drive  / Trailer",
+    "condition": "Healthy",
+    "isHealthy": true,
+    "severity": "SEV - 1",
+    "area": "Tires",
+    "category": "D.O.T Accessories",
+    "inspectionId": "94eec4f6-be3f-4092-aafc-ef4cfff1384d",
+    "camera": "at_cam_12",
+    "frame": 50,
+    "bbox": null
+  },
+  {
+    "path": "Truck/Mudflap - Drive - Trailer - Missing_01.jpg",
+    "truckTrailer": "Truck",
+    "carPart": "Mudflap  - Drive  / Trailer",
+    "condition": "Missing",
+    "isHealthy": false,
+    "severity": "SEV - 1",
+    "area": "Tires",
+    "category": "D.O.T Accessories",
+    "inspectionId": "2faa5c27-e613-4c4c-8cb6-4bdae26d0510",
+    "camera": "at_cam_01",
+    "frame": 34,
+    "bbox": {
+      "left": 0.695,
+      "top": 0.417,
+      "width": 0.216,
+      "height": 0.325
+    }
+  },
+  {
+    "path": "Trailer/Mudflap - Drive - Trailer - Healthy_01.jpg",
+    "truckTrailer": "Trailer",
+    "carPart": "Mudflap  - Drive  / Trailer",
+    "condition": "Healthy",
+    "isHealthy": true,
+    "severity": "SEV - 1",
+    "area": "Tires",
+    "category": "D.O.T Accessories",
+    "inspectionId": "075cef79-6d4e-49cd-bac0-eb5ae05c9dfe",
+    "camera": "at_cam_01",
+    "frame": 73,
+    "bbox": null
   }
 ]
