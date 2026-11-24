@@ -49,5 +49,22 @@
       "height": 0.076
     },
     "addedAt": "2026-11-24T01:11:57Z"
+  },
+  {
+    "path": "Truck/Grille guard - Broken_03.jpg",
+    "truckTrailer": "Truck",
+    "carPart": "Grille guard",
+    "condition": "Broken",
+    "isHealthy": false,
+    "camera": "at_front_03",
+    "frame": 5,
+    "inspectionId": "4eab9c0f-5bc5-4288-a26f-572eb6a92921",
+    "bbox": {
+      "left": 0.497,
+      "top": 0.725,
+      "width": 0.171,
+      "height": 0.076
+    },
+    "addedAt": "2026-11-24T01:30:32Z"
   }
 ]
